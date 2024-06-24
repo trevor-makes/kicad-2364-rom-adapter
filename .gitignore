@@ -1,0 +1,6 @@
+.DS_Store
+fp-info-cache
+*-backups/
+*.bak
+*.kicad_prl
+
